@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Screenshot
 COMPROBACION
-![](./assets/image.png)
-
+![](./src/assets/image.png)
 
 ## My process
 
