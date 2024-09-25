@@ -1,0 +1,77 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+.BotonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 40px;
+
+
+}
+.BotonContainer button{
+  background-color: #10968b;
+  padding: 20px;
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e9ecef;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #333;
+}
+
+.MainContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.FiltroContainer {
+  flex: 1;
+  height: 30%;
+
+}
+.FiltroContainer label {
+  display: flex;           
+  flex-direction: column;
+}
+.RightContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+}
+
+.TotalVotosContainer {
+  margin-bottom: 20px;
+  align-self: flex-end;
+}
+
+
+
+
