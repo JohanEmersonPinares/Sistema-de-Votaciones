@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 COMPROBACION
-![](./images/Simulacion.png)
+![](./imag/image.png)
 
 
 ## My process
